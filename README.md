@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Daan Kloetstra a **Full-stack developer** for [Programmic](https://programic.com), living in Zwolle, The Netherlands🇳🇱
+I am Daan Kloetstra a **Full-stack developer** for [Programic](https://programic.com), living in Zwolle, The Netherlands🇳🇱
 
 I love creating awesome applications for the web.
 
