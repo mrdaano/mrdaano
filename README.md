@@ -1,7 +1,7 @@
 # Hi there 👋
-I am Daan Kloetstra a **Full-stack developer** for [Programic](https://programic.com), living in Zwolle, The Netherlands🇳🇱
+I am Daan Kloetstra the **Cou-founder** of [Rocksolid](https://rocksolid.dev), living in Zwolle, The Netherlands🇳🇱
 
-I love creating awesome applications for the web.
+I love creating awesome applications for the web.Cancel changes
 
 <!--
 **mrdaano/mrdaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
