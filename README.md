@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Daan Kloetstra the **Cou-founder** of [Rocksolid](https://rocksolid.dev), living in Zwolle, The Netherlands🇳🇱
+I am Daan Kloetstra the **Co-founder** of [Rocksolid](https://rocksolid.dev), living in Zwolle, The Netherlands🇳🇱
 
 I love creating awesome applications for the web.Cancel changes
 
