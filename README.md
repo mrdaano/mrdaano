@@ -1,7 +1,5 @@
 # Hi there 👋
-I am Daan Kloetstra the **Co-founder** of [Rocksolid](https://rocksolid.dev), living in Zwolle, The Netherlands🇳🇱
-
-I love creating awesome applications for the web.
+I am Daan Kloetstra and I love creating data-heavy applications.
 <!--
 **mrdaano/mrdaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
